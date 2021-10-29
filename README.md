@@ -36,8 +36,6 @@
 
 
 
-
-
 ## 脑子进煎鱼了
 
 [http系列](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1383459655464337409&__biz=MzUxMDI4MDc1NA==#wechat_redirect)
@@ -65,4 +63,46 @@
 ## 码洞
 
 [快学go语言](https://mp.weixin.qq.com/s/OVEPFX6YRBgdq2M_WVns7Q)
+
+
+
+## 零散的文章 
+
+
+
+
+
+## 博客网站
+
+[go语言中文网](https://studygolang.com/)
+
+[Seekload](https://seekload.net/)
+
+[beego](https://beego.me/docs/intro/)
+
+[Go 语言编程之旅](https://golang2.eddycjy.com/)
+
+[go专家编程](https://github.com/RainbowMango/GoExpertProgramming)
+
+[煎鱼](https://eddycjy.com/)
+
+[跟煎鱼学 Go](https://eddycjy.gitbook.io/golang/)
+
+[无闻的小站](https://unknwon.cn/)
+
+[柴树杉](https://chai2010.cn/)
+
+[飞雪无情的博客](https://www.flysnow.org/)
+
+[码农桃花源](https://qcrao91.gitbook.io/go/)
+
+[xiaorui](http://xiaorui.cc/)
+
+[李文周的博客](https://www.liwenzhou.com/)
+
+
+
+
+
+
 
