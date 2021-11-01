@@ -66,9 +66,25 @@
 
 
 
-## 零散的文章 
+## 零散的文章
 
+[Go web和微服务实战教程推荐](https://mp.weixin.qq.com/s/7jzPDm88XDkERwijLwlyKA)
 
+### context 相关
+
+[小白也能看懂的context包详解：从入门到精通](https://mp.weixin.qq.com/s/_5gBIwvtXKJME7AV2W2bqQ)
+
+[一文吃透 Go 语言解密之上下文 context](https://mp.weixin.qq.com/s/A03G3_kCvVFN3TxB-92GVw)
+
+[一起聊聊 Go Context 的正确使用姿势](https://mp.weixin.qq.com/s/5JDSqNIimNrgm5__Z4FNjw)
+
+### 并发相关
+
+[一文带你解密 Go 语言之通道 channel](https://mp.weixin.qq.com/s/ZXYpfLNGyej0df2zXqfnHQ)
+
+[Go 五种原子性操作的用法详解](https://mp.weixin.qq.com/s/gLmOz7F_2t5IYtdus5xBRQ)
+
+[一口气搞懂 Go sync.map 所有知识点](https://mp.weixin.qq.com/s/8aufz1IzElaYR43ccuwMyA)
 
 
 
