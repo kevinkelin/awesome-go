@@ -74,6 +74,8 @@
 
 [Go 业务开发中常用的几个开源库](https://mp.weixin.qq.com/s/b87gNHi3Mus2WM6vHks5dA)
 
+[上百篇掘金Golang优质文章](https://juejin.cn/post/6953073994383753223)
+
 
 
 ### context 相关
