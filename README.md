@@ -92,6 +92,8 @@
 
 [一口气搞懂 Go sync.map 所有知识点](https://mp.weixin.qq.com/s/8aufz1IzElaYR43ccuwMyA)
 
+[golang channel 使用总结](https://mp.weixin.qq.com/s/cga4frDCPx6fOjJJx9DlAg)
+
 
 
 ### 反射相关
