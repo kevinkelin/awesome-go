@@ -66,9 +66,43 @@
 
 
 
-## 零散的文章 
+## 零散的文章
+
+[Go web和微服务实战教程推荐](https://mp.weixin.qq.com/s/7jzPDm88XDkERwijLwlyKA)
+
+[用 Goland和 VS Code 搭建Go 语言开发环境](https://zhuanlan.zhihu.com/p/237846703)
+
+[Go 业务开发中常用的几个开源库](https://mp.weixin.qq.com/s/b87gNHi3Mus2WM6vHks5dA)
+
+[上百篇掘金Golang优质文章](https://juejin.cn/post/6953073994383753223)
 
 
+
+### context 相关
+
+[小白也能看懂的context包详解：从入门到精通](https://mp.weixin.qq.com/s/_5gBIwvtXKJME7AV2W2bqQ)
+
+[一文吃透 Go 语言解密之上下文 context](https://mp.weixin.qq.com/s/A03G3_kCvVFN3TxB-92GVw)
+
+[一起聊聊 Go Context 的正确使用姿势](https://mp.weixin.qq.com/s/5JDSqNIimNrgm5__Z4FNjw)
+
+### 并发相关
+
+[一文带你解密 Go 语言之通道 channel](https://mp.weixin.qq.com/s/ZXYpfLNGyej0df2zXqfnHQ)
+
+[Go 五种原子性操作的用法详解](https://mp.weixin.qq.com/s/gLmOz7F_2t5IYtdus5xBRQ)
+
+[一口气搞懂 Go sync.map 所有知识点](https://mp.weixin.qq.com/s/8aufz1IzElaYR43ccuwMyA)
+
+[golang channel 使用总结](https://mp.weixin.qq.com/s/cga4frDCPx6fOjJJx9DlAg)
+
+
+
+### 反射相关
+
+[牛x！搞明白 Go 反射的使用方法和应用场景](https://mp.weixin.qq.com/s/kqJV4aeRVb0-r8yCwWAtFw)
+
+[盘点一下结构体标签在Go中的应用](https://mp.weixin.qq.com/s/1AVL5k9D55fWIkWm4UPR0Q)
 
 
 
